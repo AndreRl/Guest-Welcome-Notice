@@ -1,0 +1,19 @@
+.guestwelcome {
+	display: none;
+    background-color: #202020;
+    width: 300px;
+    padding: 28px 23px 28px 23px;
+    position: fixed;
+    top: 80%;
+    right: 50px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13px;
+    color: #fff;
+    text-align: left;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+    z-index: 1;
+opacity: 0.9;
+}
